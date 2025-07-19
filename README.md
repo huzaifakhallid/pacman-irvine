@@ -1,6 +1,6 @@
 # Pacman Game in Assembly
 
-A simple Pacman game developed I deveoped in x86 Assembly using the Irvine32 library for my semester project. I have also added the problem statement. 
+A simple Pacman game I developed in x86 Assembly using the Irvine32 library for my semester project. I have also added the problem statement. 
 
 ## Features
 
